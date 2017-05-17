@@ -20,5 +20,6 @@ Suggested Steps to complete this assignment
 3. Now create a for each loop that traverses the list and one by one stores each year in a variable y.
 4. Now add code inside the for each loop to implement Gauss' Computus algorithm. You should use 13 variables: a, b, c, d, e, g, h, j, k, m, r, n, p
 5. Check your calculations. For 2010 a, b, c, d, e, g, h, j, k, m, r, n, p should be 15, 20, 10, 5, 0, 6, 9, 2, 2, 0, 4, 4, 4
-6. Add print() statements inside the for each loop to display n, p and y in month, day and year form. Your output should look similar to this:![screenshot of output](computus.png)
+6. Add print() statements inside the for each loop to display n, p and y in month, day and year form. Your output should look similar to this:   
+![screenshot of output](computus.png)
 7. Submit the .pyde file via the school loop drop box.
