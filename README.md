@@ -1,6 +1,8 @@
 Computus
 ========
-This assignment is similar to the previous temperature conversion assignment. You are to write a program that traverses a list of years and displays the date of Easter for each of those years. Easter Sunday is the first Sunday after the first full moon of Spring. The calculation of the date of Easter is called Computus in Latin.  One algorithm for Computus was invented by mathematician Carl Friedrich Gauss in the early 1800s and is shown below. All divisions are integer divisions. 
+This assignment is similar to the previous temperature conversion assignment. You may find slides 144 - 149 of the PythonProcessing.pptx PowerPoint slides helpful in completing this assginment.   
+
+You are to write a program that traverses a list of years and displays the date of Easter for each of those years. Easter Sunday is the first Sunday after the first full moon of Spring. The calculation of the date of Easter is called Computus in Latin.  One algorithm for Computus was invented by mathematician Carl Friedrich Gauss in the early 1800s and is shown below. All divisions are integer divisions. 
 1. Let y be the year.
 2. Divide y by 19 and call the remainder a. Ignore the quotient. 
 3. Divide y by 100 to get a quotient b and a remainder c. 
