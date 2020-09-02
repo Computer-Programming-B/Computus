@@ -9,10 +9,10 @@ You are to write a program that traverses a list of years and displays the date 
 4. Divide b by 4 to get an integer quotient d and a remainder e. 
 5. Divide 8 * b + 13 by 25 to get an integer quotient g. Ignore the remainder. 
 6. Divide 19 * a + b - d - g + 15 by 30 to get a remainder h. Ignore the quotient.
-7. Divide c by 4 to get a quotient j and a remainder k. 
-8. Divide a + 11 * h by 319 to get a quotient m. Ignore the remainder. 
+7. Divide c by 4 to get an integer quotient j and a remainder k. 
+8. Divide a + 11 * h by 319 to get an integer quotient m. Ignore the remainder. 
 9. Divide 2 * e + 2 * j - k - h + m + 32 by 7 to get a remainder r. Ignore the quotient.
-10. Divide h - m + r + 90 by 25 to get a quotient n. Ignore the remainder. 
+10. Divide h - m + r + 90 by 25 to get an integer quotient n. Ignore the remainder. 
 11. Divide h - m + r + n + 19 by 32 to get a remainder p. Ignore the quotient.
 12. The month that Easter falls on is n and the date is p. For example, if n is 4 and p is 15, Easter falls on 4/15 or April 15th of that year.
 
