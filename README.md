@@ -17,7 +17,7 @@ You are to write a program that traverses a list of years and displays the date 
 12. The month that Easter falls on is n and the date is p. For example, if n is 4 and p is 15, Easter falls on 4/15 or April 15th of that year.
 
 Suggested Steps to complete this assignment
-1. Start a new program in Processing. 
+1. Start a new Python 3 program in repl.it. 
 2. Create a list of years with code like `years = [2010]` (for now we'll just use the one year)
 3. Now create a for each loop that traverses the list and one by one stores each year in a variable y.
 4. Now add code inside the for each loop to implement Gauss' Computus algorithm. You should use 13 variables: a, b, c, d, e, g, h, j, k, m, r, n, p
