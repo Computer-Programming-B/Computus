@@ -6,8 +6,8 @@ You are to write a program that traverses a list of years and displays the date 
 1. Let y be the year.
 2. Divide y by 19 and call the remainder a. Ignore the quotient. 
 3. Divide y by 100 to get an integer quotient b and a remainder c. 
-4. Divide b by 4 to get a quotient d and a remainder e. 
-5. Divide 8 * b + 13 by 25 to get a quotient g. Ignore the remainder. 
+4. Divide b by 4 to get an integer quotient d and a remainder e. 
+5. Divide 8 * b + 13 by 25 to get an integer quotient g. Ignore the remainder. 
 6. Divide 19 * a + b - d - g + 15 by 30 to get a remainder h. Ignore the quotient.
 7. Divide c by 4 to get a quotient j and a remainder k. 
 8. Divide a + 11 * h by 319 to get a quotient m. Ignore the remainder. 
